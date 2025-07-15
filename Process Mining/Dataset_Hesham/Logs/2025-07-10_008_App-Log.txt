@@ -1,0 +1,3 @@
+2025-07-10 16:52:22.2476|INFO|Globals.Datamodels.Configuration.LoggerSettings.LoggerConfig|GlobalConfigLoaded
+2025-07-10 16:52:22.3284|INFO|Globals.Datamodels.Configuration.LoggerSettings.LoggerConfig|NLog initialized..Starting Recorder
+2025-07-10 16:52:22.3767|INFO|Globals.Datamodels.Configuration.LoggerSettings.LoggerConfig|StartingEventTaskManager
