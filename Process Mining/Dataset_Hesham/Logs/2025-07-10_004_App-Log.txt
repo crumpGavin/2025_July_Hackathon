@@ -1,1 +1,0 @@
-2025-07-10 15:58:47.1740|INFO|Globals.Datamodels.Configuration.LoggerSettings.LoggerConfig|GlobalConfigLoaded
